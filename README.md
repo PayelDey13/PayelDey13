@@ -1,3 +1,4 @@
+![logo](https://github.com/PayelDey13/PayelDey13/blob/main/Purple%20Neon%20Graphic%20Designer%20LinkedIn%20Banner%20%20(2).png)
 <h1 align="center">Hi 👋, I'm Payel Dey</h1>
 <h3 align="center">A passionate frontend developer from Kolkata</h3>
 
