@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kolkata</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payeldey13&label=Profile%20views&color=0e75b6&style=flat" alt="payeldey13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=payeldey13" alt="payeldey13" /></a> </p>
